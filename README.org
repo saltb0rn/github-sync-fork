@@ -1,0 +1,11 @@
+** git-sync-fork
+
+   A simple script to update your fork to its parent repository.
+
+   [[https://help.github.com/articles/syncing-a-fork/][GitHub docs]] has already told you how to do so manually, but with a script to do so is better.
+
+** Usage
+
+   - Install =requests= with =pip= first
+
+   - Run the script
